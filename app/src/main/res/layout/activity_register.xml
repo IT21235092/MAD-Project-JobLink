@@ -74,7 +74,7 @@
         android:layout_height="527dp"
         app:cardCornerRadius="24dp"
         tools:layout_editor_absoluteX="27dp"
-        tools:layout_editor_absoluteY="245dp">
+        tools:layout_editor_absoluteY="159dp">
 
         <ScrollView
             android:layout_width="match_parent"

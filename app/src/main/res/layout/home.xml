@@ -166,7 +166,7 @@
                                 android:fontFamily="sans-serif-medium"
                                 android:gravity="center"
                                 android:padding="10dp"
-                                android:text="Apply Now"
+                                android:text="View More"
                                 android:textColor="#99000000"
                                 android:textSize="18dp" />
                         </LinearLayout>
@@ -227,7 +227,7 @@
                             android:fontFamily="sans-serif-medium"
                             android:gravity="center"
                             android:padding="10dp"
-                            android:text="Apply Now"
+                            android:text="View More"
                             android:textColor="#99000000"
                             android:textSize="18dp" />
                     </LinearLayout>
@@ -295,7 +295,7 @@
                                 android:fontFamily="sans-serif-medium"
                                 android:gravity="center"
                                 android:padding="10dp"
-                                android:text="Apply Now"
+                                android:text="View More"
                                 android:textColor="#99000000"
                                 android:textSize="18dp" />
                         </LinearLayout>
@@ -364,7 +364,7 @@
                                 android:fontFamily="sans-serif-medium"
                                 android:gravity="center"
                                 android:padding="10dp"
-                                android:text="Apply Now"
+                                android:text="View More"
                                 android:textColor="#99000000"
                                 android:textSize="18dp" />
                         </LinearLayout>
